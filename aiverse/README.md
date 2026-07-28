@@ -6,22 +6,22 @@ Complete YouTube video package: full word-for-word script, production cues, uplo
 
 ## ⬇️ DOWNLOADS
 
-**Easiest — get everything in one file:**
+**Easiest — everything in one file:**
 
-👉 **[Download the full package (.zip)](https://github.com/princeplanet2722-nab/NR722/releases/latest)** — grab `AI-Verse-Video-Package.zip` from the Releases page.
+👉 **[Download AI-Verse-Video-Package.zip](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-Video-Package.zip)** (3 MB — contains all files below)
 
-**Or download individual files** (click, then hit the **Download** button on GitHub):
+**Or download individual files:**
 
 | File | Format | What it's for |
 |---|---|---|
-| [Full Script](../../raw/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-SCRIPT.pdf) | PDF | Print / read on set |
-| [Full Script](../../raw/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-SCRIPT.docx) | DOCX | Edit in Word / Google Docs |
-| [Upload Package](../../raw/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-UPLOAD-PACKAGE.pdf) | PDF | Titles, description, tags, Reels cut |
-| [Upload Package](../../raw/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-UPLOAD-PACKAGE.docx) | DOCX | Editable version |
-| [Teleprompter Script](../../raw/arena/019fa936-nr722/aiverse/downloads/AI-Verse-TELEPROMPTER-spoken-only.txt) | TXT | Spoken words only — paste straight into any teleprompter app |
-| [Thumbnail Concept](../../raw/arena/019fa936-nr722/aiverse/assets/thumbnail-concept.png) | PNG | Reference render for your designer |
+| [Full Script](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-SCRIPT.pdf) | PDF | Print / read on set |
+| [Full Script](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-SCRIPT.docx) | DOCX | Edit in Word / Google Docs |
+| [Upload Package](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-UPLOAD-PACKAGE.pdf) | PDF | Titles, description, tags, Reels cut |
+| [Upload Package](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-5-Secret-AI-Tools-2026-UPLOAD-PACKAGE.docx) | DOCX | Editable version |
+| [Teleprompter Script](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/downloads/AI-Verse-TELEPROMPTER-spoken-only.txt) | TXT | Spoken words only — paste into any teleprompter app |
+| [Thumbnail Concept](https://github.com/princeplanet2722-nab/NR722/raw/refs/heads/arena/019fa936-nr722/aiverse/assets/thumbnail-concept.png) | PNG | Reference render for your designer |
 
-> To open the DOCX in Google Docs: download it, then **Drive → New → File upload → right-click → Open with Google Docs**.
+> **Opening the DOCX in Google Docs:** download it → Drive → **New → File upload** → right-click the file → **Open with → Google Docs**.
 
 ---
 
