@@ -1,0 +1,128 @@
+[
+  {
+    "audio": "vo_01.mp3",
+    "image": "01_spreadsheet_manual.png",
+    "text": "Stop. Whatever you were about to spend the next four hours doing — a machine already finished it. In 2026, the productivity workflow you learned is officially dead. Not slower — dead. Because while you were building your little Notion dashboard, five tools quietly shipped that do the entire job for you while you're asleep. I've been running all five for the last ninety days inside my own business, and honestly? Two of them feel like they should be illegal.",
+    "overlays": [
+      {"text": "4 HOURS \u2192 12 SECONDS", "kind": "stat", "at": 4.0, "len": 3.5},
+      {"text": "YOUR WORKFLOW IS DEAD", "kind": "lower", "at": 9.0, "len": 4.0}
+    ]
+  },
+  {
+    "audio": "vo_02.mp3",
+    "image": "07_agent_brain.png",
+    "text": "That last one — the blurred one — is number one. It's an autonomous agent that took a task off my calendar that used to cost me six hundred dollars a month in freelancer fees, and it ran the whole thing end to end without me touching a key. I'm showing you exactly how I set it up at the end of this video, so don't skip — the setup is the part everyone gets wrong. Tool number one. Go.",
+    "overlays": [
+      {"text": "#1 \u2014 CENSORED", "kind": "lower", "at": 0.5, "len": 4.0},
+      {"text": "$600/MO", "sub": "REPLACED BY ONE SENTENCE", "kind": "stat", "at": 6.5, "len": 4.0},
+      {"text": "01|THE CLICK KILLER", "kind": "title", "at": 22.5, "len": 2.7}
+    ]
+  },
+  {
+    "audio": "vo_03.mp3",
+    "image": "03_browser_agent.png",
+    "text": "Here's the job nobody wants. You need two hundred leads off a directory site — name, title, company, email, LinkedIn. The old way is copy, paste, tab, copy, paste, cry. Roughly four hours if you don't lose your mind at row sixty. The new way is one sentence. Watch the mouse. I am not touching it. It handles pagination. It handles the pop-ups. It handles the cookie banners that ruin your life. And when a page loads slow, it waits — like a person would.",
+    "overlays": [
+      {"text": "200 LEADS", "sub": "THE OLD WAY: 4 HOURS", "kind": "stat", "at": 3.0, "len": 4.0},
+      {"text": "NOBODY IS TOUCHING THIS COMPUTER", "kind": "lower", "at": 17.0, "len": 5.0}
+    ]
+  },
+  {
+    "audio": "vo_04.mp3",
+    "image": "02_autofill.png",
+    "text": "Four hours and ten minutes of manual data entry, done in twelve seconds. And here's the part that actually changes your business: you save that as a recipe. Now it's a button. Every Monday at nine a.m. it runs itself and drops a fresh lead list in your inbox before you've made coffee. You just hired a research assistant that works for the price of a Netflix subscription and never sleeps.",
+    "overlays": [
+      {"text": "4H 10M \u2192 12 SEC", "kind": "stat", "at": 0.8, "len": 4.0},
+      {"text": "RUNS ITSELF EVERY MONDAY 9AM", "kind": "lower", "at": 12.0, "len": 5.0}
+    ]
+  },
+  {
+    "audio": "vo_05.mp3",
+    "image": "04_design_after.png",
+    "text": "Second one. This is the tool that got me un-invited from a designer group chat. That's the before. That's a nine-dollar phone photo on a dirty counter. Normally this is a two-week loop with a designer, three rounds of revisions, and an invoice that hurts. That's the after. Same product, same photo, thirty seconds later, and it looks like a forty-thousand-dollar campaign shoot. And it's not just images. Feed it one paragraph about your business and it builds the entire pitch deck — layout, hierarchy, icons, brand colors, all of it consistent. I built the deck for a client proposal in the time it took my laptop to update.",
+    "overlays": [
+      {"text": "02|INSTANT ART DEPARTMENT", "kind": "title", "at": 0.2, "len": 2.5},
+      {"text": "BEFORE", "kind": "lower", "at": 5.0, "len": 3.0},
+      {"text": "$9 PHOTO \u2192 $40K SHOOT", "kind": "stat", "at": 18.0, "len": 4.0},
+      {"text": "12 SLIDES \u00b7 1 PARAGRAPH \u00b7 90 SEC", "kind": "lower", "at": 30.0, "len": 5.0}
+    ]
+  },
+  {
+    "audio": "vo_06.mp3",
+    "image": "04_design_after.png",
+    "text": "Here's the pro move most people miss: upload your brand kit first. Logo, two hex codes, one font. Every single asset after that comes out on-brand automatically. That one step is the difference between AI slop and something a client will actually pay for. That's your art department. Next one is the reason my clients think I answer emails at three in the morning. Okay. This one's the one that actually feels illegal.",
+    "overlays": [
+      {"text": "PRO MOVE", "sub": "UPLOAD YOUR BRAND KIT FIRST", "kind": "stat", "at": 1.0, "len": 4.0},
+      {"text": "03|THE TONE CLONE", "kind": "title", "at": 25.0, "len": 2.8}
+    ]
+  },
+  {
+    "audio": "vo_07.mp3",
+    "image": "05_inbox_zero.png",
+    "text": "You feed it twenty emails you've already sent and three documents you actually wrote. Not templates — your real, messy, human writing. Then you tell it: this is my voice, learn it. It picks up everything. Your sentence length. The fact that you start replies with Quick one. The fact that you never use exclamation marks. Your specific brand of politely saying no. Left is every AI email you've ever deleted. Right is what this thing wrote. I did not touch that. That is my voice, generated.",
+    "overlays": [
+      {"text": "20 EMAILS + 3 DOCS", "sub": "THAT'S THE ENTIRE TRAINING STEP", "kind": "stat", "at": 1.0, "len": 4.0},
+      {"text": "GENERIC AI  vs  YOUR VOICE", "kind": "lower", "at": 26.0, "len": 5.0}
+    ]
+  },
+  {
+    "audio": "vo_08.mp3",
+    "image": "05_inbox_zero.png",
+    "text": "Here's how I actually use it. I go to bed with twenty-three client emails sitting unanswered. Overnight it drafts every single reply in my voice, pulls the context from the previous thread, and stages them as drafts — not sent, drafts. I wake up, I read them in about six minutes, I fix maybe two words, and I hit send on all of them before breakfast. Two hours of email, gone, every single day. And the rule that keeps this safe: never let it hit send on its own. Draft mode only. You stay the human in the loop, you keep the relationship, you just skip the typing.",
+    "overlays": [
+      {"text": "23 EMAILS", "sub": "DRAFTED WHILE YOU SLEEP", "kind": "stat", "at": 3.0, "len": 4.0},
+      {"text": "2 HRS OF EMAIL \u2192 6 MINUTES", "kind": "stat", "at": 20.0, "len": 4.0},
+      {"text": "RULE: DRAFT MODE ONLY. NEVER AUTO-SEND.", "kind": "lower", "at": 27.0, "len": 6.0}
+    ]
+  },
+  {
+    "audio": "vo_09.mp3",
+    "image": "06_video_editor.png",
+    "text": "Number four is how this exact video got edited. This is the raw take. Forty-two minutes. It's full of ums, dead air, me drinking water, and three separate moments where my dog walks into frame. One click. Every silence, every um, every false start — gone. Forty-two minutes collapses to nine. But here's the part that actually scales a channel. It doesn't just cut. It scans the whole transcript, finds the moments with the highest hook density — the parts where you were genuinely interesting — and clips them out for you, ranked by predicted virality score. Then it reframes them vertical, tracks your face so you never drift out of the crop, and burns in animated captions that pop word by word.",
+    "overlays": [
+      {"text": "04|THE SELF-EDITOR", "kind": "title", "at": 0.2, "len": 2.5},
+      {"text": "RAW: 42:17 \u00b7 UNWATCHABLE", "kind": "lower", "at": 6.0, "len": 4.0},
+      {"text": "42:17 \u2192 9:04", "sub": "ZERO MANUAL CUTS", "kind": "stat", "at": 17.0, "len": 4.0},
+      {"text": "RANKED BY VIRALITY SCORE", "kind": "lower", "at": 32.0, "len": 5.0}
+    ]
+  },
+  {
+    "audio": "vo_10.mp3",
+    "image": "06_video_editor.png",
+    "text": "One long video becomes twelve shorts, formatted for YouTube Shorts, Facebook Reels, and TikTok at the same time. This is the exact stack every faceless channel you've been seeing lately is running. That's not a conspiracy — that's just the tooling. Twelve pieces of content from one recording, and my editing time went from six hours a video to about twenty-five minutes of quality control. Alright. Number one. The blurred one. Let's un-blur it.",
+    "overlays": [
+      {"text": "1 UPLOAD \u2192 12 CLIPS \u2192 3 PLATFORMS", "kind": "stat", "at": 1.0, "len": 4.5},
+      {"text": "6 HRS \u2192 25 MIN", "sub": "EDITING TIME PER VIDEO", "kind": "stat", "at": 19.0, "len": 4.0},
+      {"text": "01|THE ULTIMATE BRAIN", "kind": "title", "at": 26.5, "len": 3.0}
+    ]
+  },
+  {
+    "audio": "vo_11.mp3",
+    "image": "07_agent_brain.png",
+    "text": "Every other tool on this list does one job. This one does the whole project. You don't prompt it — you delegate to it, the way you'd delegate to a contractor. Then you walk away. Step one. You describe the outcome, never the steps. Amateurs write search for competitors. Watch what I actually type. Step two. Connect its tools. Browser access, your Google Drive, your Slack. This is the step people skip, and it's why their agent doesn't work. An agent without tools is just a chatbot with anxiety.",
+    "overlays": [
+      {"text": "STEP 1", "sub": "GIVE IT THE OUTCOME, NOT THE STEPS", "kind": "stat", "at": 11.0, "len": 4.5},
+      {"text": "STEP 2", "sub": "GIVE IT TOOLS: BROWSER \u00b7 DRIVE \u00b7 SLACK", "kind": "stat", "at": 22.0, "len": 4.5}
+    ]
+  },
+  {
+    "audio": "vo_12.mp3",
+    "image": "08_laptop_closed.png",
+    "text": "Step three. Before it acts, it writes its own to-do list. Nine sub-tasks it invented by itself. Read that list. If the plan is wrong, kill it now — thirty seconds of reading saves you twenty minutes of a confidently wrong robot. Step four. Close the laptop. It runs in the cloud. It doesn't need you sitting there watching it like a nervous parent. Nineteen minutes later: a finished comparison sheet, a cited source folder, and a publish-ready blog post sitting in my Drive. That is a full afternoon of work from a paid researcher. That used to cost me six hundred dollars a month. Now it costs me one sentence and nineteen minutes of not being in the room.",
+    "overlays": [
+      {"text": "STEP 3", "sub": "WATCH IT PLAN \u2014 THEN APPROVE", "kind": "stat", "at": 1.0, "len": 4.0},
+      {"text": "STEP 4", "sub": "CLOSE THE LAPTOP. IT RUNS IN THE CLOUD.", "kind": "stat", "at": 17.0, "len": 4.5},
+      {"text": "$600/MO \u2192 1 SENTENCE", "kind": "stat", "at": 33.0, "len": 4.5}
+    ]
+  },
+  {
+    "audio": "vo_13.mp3",
+    "image": "02_autofill.png",
+    "text": "Now look — five tools is useless if you don't know what to point them at. So I built the thing I wish I'd had ninety days ago. It's the AI Verse Automation Cheat Sheet. One page per tool, the exact prompts I typed in this video copy-paste ready, and a map of which task to automate first so you actually get hours back in week one instead of week ten. It's free, it's the first link in the description, and it takes about nine seconds to grab. Every tool in this video still needs you to press go. The video on your screen right now is the full automation stack I run where the tools trigger each other. No human, no button, it just runs. If this video felt illegal, that one's a felony. Go.",
+    "overlays": [
+      {"text": "FREE", "sub": "THE AI VERSE AUTOMATION CHEAT SHEET", "kind": "stat", "at": 8.0, "len": 5.0},
+      {"text": "LINK #1 IN THE DESCRIPTION \u2193", "kind": "lower", "at": 20.0, "len": 6.0},
+      {"text": "WATCH NEXT", "sub": "THE FULL AUTOMATION STACK", "kind": "stat", "at": 34.0, "len": 5.0}
+    ]
+  }
+]
